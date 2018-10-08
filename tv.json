@@ -1,6 +1,7 @@
 {	
   "channel_name": [	
     "HBO HITS HD",
+    "SONY Moviw Channel"
     "SONY LE PLEX HD",
     "SONY PIX HD",
     "THRILL",
@@ -69,9 +70,14 @@
     "RT HD",
     "RTE",
     "ABU DHABI",
-    "DUBAI ONE"	
+    "DUBAI ONE",
+    "Animal Planet HD",
+    "Discovery World HD",
+    "Discoveru Turbo"
+    
   ],
   "genre": [	
+    "Movie Premium Channel",
     "Movie Premium Channel",
     "Movie Premium Channel",
     "Movie Premium Channel",
@@ -141,10 +147,14 @@
     "News",
     "News",
     "ARAB",
-    "ARAB"	
+    "ARAB",
+    "Education",
+    "Education",
+    "Education"
   ],
   "url": [	
     "http://iss01.ott.net.tw:8090/live/coship_DCTV2291445940028640_1200.m3u8",
+    "http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on",
     "http://mhms7.airtel.tv/PLTV/88888888/224/3221226446/04.m3u8",
     "http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8",
     "http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8",
@@ -213,6 +223,9 @@
     "https://secure-streams.akamaized.net/rt/index.m3u8",
     "http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8",
     "http://www.elahmad.com/tv/m3u8/adtv.m3u8",
-    "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8"	
+    "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8",
+    "http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/index.m3u8",
+    "http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/index.m3u8",
+    "http://cshms3.airtel.tv/PLTV/88888888/224/3221225782/01.m3u8"
   ]	
 }
