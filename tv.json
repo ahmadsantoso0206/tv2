@@ -1,7 +1,6 @@
 {	
   "channel_name": [	
     "Action Movies",
-    "HBO",
     "HBO 2",
     "HBO HITS HD",
     "FOX Crime",
@@ -97,7 +96,6 @@
     "Movie Premium Channel",
     "Movie Premium Channel",
     "Movie Premium Channel",
-    "Movie Premium Channel",
     "Kids",
     "KPop & Japan",
     "KPop & Japan",
@@ -172,7 +170,6 @@
   ],
   "url": [	
     "http://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=low&tipe=m3u8",
-    "http://218.202.220.2:5000/nn_live.ts?id=HBO&tipe=m3u8",
     "http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8",
     "http://iss01.ott.net.tw:8090/live/coship_DCTV2291445940028640_1200.m3u8",
     "http://cdn2.bear-tv.com/freetv/TOT_Fox_claim_ENG/playlist.m3u8",
