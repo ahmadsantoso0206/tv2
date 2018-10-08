@@ -1,5 +1,6 @@
 {	
   "channel_name": [	
+    "HBO",
     "HBO HITS HD",
     "SONY Movie Channel",
     "SONY LE PLEX HD",
@@ -83,6 +84,7 @@
     "Movie Premium Channel",
     "Movie Premium Channel",
     "Movie Premium Channel",
+    "Movie Premium Channel",
     "Kids",
     "KPop & Japan",
     "KPop & Japan",
@@ -153,6 +155,7 @@
     "Education"
   ],
   "url": [	
+    "http://iss01.ott.net.tw:8090/live/coship_DCTV2291445940028640_1200.m3u8?fluxustv.m3u8",
     "http://iss01.ott.net.tw:8090/live/coship_DCTV2291445940028640_1200.m3u8",
     "http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8",
     "http://mhms7.airtel.tv/PLTV/88888888/224/3221226446/04.m3u8",
