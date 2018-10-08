@@ -199,12 +199,12 @@
     "http://cshms4.airtel.tv/PLTV/88888888/224/3221226067/04.m3u8",
     "http://cshms3.airtel.tv/PLTV/88888888/224/3221225878/04.m3u8",
     "http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8",
-    "https://raisportdue1-live.akamaized.net/hls/live/598322/raisportdue1/raisport2_1800/chunklist.m3u8?sd=10&rebase=on",
+    "https://raisportdue1-live.akamaized.net/hls/live/598322/raisportdue1/raisport2_1800/chunklist.m3u8",
     "http://media2.strekalovskiy.com/rusextrimretro/tracks-v1a1/index.m3u8",
     "http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8",
     "http://mhms9.airtel.tv/PLTV/88888888/224/3221226077/02.m3u8",
     "http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226330/04.m3u8",
-    "http://l1tvlive1-lh.akamaihd.net/i/p-2786_u-_l-2786_hls_a-_c-DE_e-885278_i-5484528720171217122906_k-_q-_t-hds/sportitalia247_1@5383/index_1200_av-p.m3u8?sd=10&rebase=on",
+    "http://l1tvlive1-lh.akamaihd.net/i/p-2786_u-_l-2786_hls_a-_c-DE_e-885278_i-5484528720171217122906_k-_q-_t-hds/sportitalia247_1@5383/index_1200_av-p.m3u8",
     "http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8",
     "http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8",
     "http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8",
@@ -212,7 +212,7 @@
     "http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8",
     "https://secure-streams.akamaized.net/rt/index.m3u8",
     "http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8",
-    "http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula",
-    "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione"	
+    "http://www.elahmad.com/tv/m3u8/adtv.m3u8",
+    "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8"	
   ]	
 }
