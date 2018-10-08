@@ -1,7 +1,12 @@
 {	
   "channel_name": [	
+    "Action Movies",
     "HBO",
+    "HBO 2",
     "HBO HITS HD",
+    "FOX Crime",
+    "FOX Life",
+    "FOX Premium Comedy"
     "SONY Movie Channel",
     "SONY LE PLEX HD",
     "SONY PIX HD",
@@ -56,6 +61,9 @@
     "ZEE CINEMA",
     "ZEE CLASSIC",
     "ZEE TV HD",
+    "Extreme Sports",
+    "Flow Sports",
+    "FOX Sports HD",
     "SONY ESPN HD",
     "RAI SPORT HD",
     "RUSIA EXTREME",
@@ -78,6 +86,11 @@
     
   ],
   "genre": [	
+    "Movie Premium Channel",
+    "Movie Premium Channel",
+    "Movie Premium Channel",
+    "Movie Premium Channel",
+    "Movie Premium Channel",
     "Movie Premium Channel",
     "Movie Premium Channel",
     "Movie Premium Channel",
@@ -141,6 +154,9 @@
     "Sports",
     "Sports",
     "Sports",
+    "Sports",
+    "Sports",
+    "Sports",
     "Music",
     "Music",
     "Music",
@@ -155,8 +171,13 @@
     "Education"
   ],
   "url": [	
-    "http://iss01.ott.net.tw:8090/live/coship_DCTV2291445940028640_1200.m3u8?fluxustv.m3u8",
+    "http://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=low&tipe=m3u8"
+    "http://218.202.220.2:5000/nn_live.ts?id=HBO&tipe=m3u8",
+    "http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8",
     "http://iss01.ott.net.tw:8090/live/coship_DCTV2291445940028640_1200.m3u8",
+    "http://cdn2.bear-tv.com/freetv/TOT_Fox_claim_ENG/playlist.m3u8",
+    "http://cdn2.bear-tv.com/freetv/TOT_foxlife/chunks.m3u8",
+    "http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8",
     "http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8",
     "http://mhms7.airtel.tv/PLTV/88888888/224/3221226446/04.m3u8",
     "http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8",
@@ -211,6 +232,9 @@
     "http://cshms3.airtel.tv/PLTV/88888888/224/3221225935/04.m3u8",
     "http://cshms4.airtel.tv/PLTV/88888888/224/3221226067/04.m3u8",
     "http://cshms3.airtel.tv/PLTV/88888888/224/3221225878/04.m3u8",
+    "http://persik.by/stream/1418/252987/10309.m3u8",
+    "http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8",
+    "http://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=low&tipe=m3u9",
     "http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8",
     "https://raisportdue1-live.akamaized.net/hls/live/598322/raisportdue1/raisport2_1800/chunklist.m3u8",
     "http://media2.strekalovskiy.com/rusextrimretro/tracks-v1a1/index.m3u8",
