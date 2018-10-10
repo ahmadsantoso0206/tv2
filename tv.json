@@ -169,7 +169,7 @@
   ],
   "url": [	
     "http://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=low&tipe=m3u8",
-    "rtp://@239.1.1.226:9332",
+    "rtmp://www1.iguide.to/iguide playpath=0bf02qe6msgtu4s",
     "http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8",
     "http://cdn2.bear-tv.com/freetv/TOT_foxlife/chunks.m3u8",
     "http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8",
