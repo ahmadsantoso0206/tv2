@@ -1,5 +1,6 @@
 {	
   "channel_name": [	
+    "Bein Sports 1"
     "Action Movies",
     "HBO 2",
     "FOX Life",
@@ -82,7 +83,8 @@
     "Discoveru Turbo"
     
   ],
-  "genre": [	
+  "genre": [
+    "Sports Premium Channel",
     "Movie Premium Channel",
     "Movie Premium Channel",
     "Movie Premium Channel",
@@ -166,6 +168,7 @@
     "Education"
   ],
   "url": [	
+    "http://163.172.220.115:8080/rAMdannbein/beinsp1/index.m3u8",
     "http://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=low&tipe=m3u8",
     "http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8",
     "http://cdn2.bear-tv.com/freetv/TOT_foxlife/chunks.m3u8",
