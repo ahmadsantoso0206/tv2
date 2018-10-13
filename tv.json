@@ -1,8 +1,5 @@
 {	
   "channel_name": [	
-    "Viasat Film Action",
-    "Viasat 4",
-    "Viasat Film Premiere",
     "HBO 2",
     "FOX Premium Comedy",
     "SONY Movie Channel",
@@ -98,9 +95,6 @@
   "genre": [
     "Movie Premium Channel",
     "Movie Premium Channel",
-    "Movie Peemium Channel",
-    "Movie Premium Channel",
-    "Movie Premium Channel",
     "Movie Premium Channel",
     "Movie Premium Channel",
     "Movie Premium Channel",
@@ -193,9 +187,6 @@
     "Education"
   ],
   "url": [	
-    "http://zerocube.co:8000/live/BLZokeTBv2/qDvpdVEPz4/65783.ts",
-    "http://zerocube.co:8000/live/BLZokeTBv2/qDvpdVEPz4/65790.ts",
-    "http://zerocube.co:8000/live/BLZokeTBv2/qDvpdVEPz4/65774.ts",
     "http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8", 
     "http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8",
     "http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8",
