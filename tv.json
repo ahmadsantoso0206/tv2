@@ -195,18 +195,18 @@
     "http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8",
     "http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8",
     "http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8",
-    "http://210.210.155.35/session/260caf3e-7d82-11e8-94b1-b82a72d63267/uq2663/h/h28/index.m3u8", //SBS
     "http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8", //&Prive HD
     "http://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8", //&Flix
     "http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8",  //HBO2
     "http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8", //Fox Cinema
     "http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8", //Fox Comedy
     "http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8", //Sony Movie Channel
-    "http://mhms7.airtel.tv/PLTV/88888888/224/3221226446/04.m3u8", 
-    "http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8",
-    "http://mhms7.airtel.tv/wh7f454c46tw3697671574_1750568037/PLTV/88888888/224/3221226203/02.m3u8",
+    "http://mhms7.airtel.tv/PLTV/88888888/224/3221226446/04.m3u8",  //"Sony Le Plex"
+    "http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8", //"Sony Pix"
+    "http://mhms7.airtel.tv/wh7f454c46tw3697671574_1750568037/PLTV/88888888/224/3221226203/02.m3u8", //& Pictures
     "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1328000_sleng.m3u8", //Arirang
     "http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8", //CBS
+    "http://210.210.155.35/session/260caf3e-7d82-11e8-94b1-b82a72d63267/uq2663/h/h28/index.m3u8", //SBS
     "http://123.108.164.71/etv2/phd847/playlist.m3u8", //SBS
     "http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8?fluxustv.m3u8", //K-Drama  
     "http://210.210.155.35/uq2663/h/h08/index.m3u8", //K+
