@@ -25,18 +25,24 @@
     "K+",
     "RCTI",
     "Indosiar",
+    "Indosiar 2",
     "Trans TV",
+    "Trans TV 2",
     "ANTV",
     "TV One",
+    "TV One 2",
     "Metro TV",
     "Kompas TV",
     "SCTV",
+    "SCTV 2",
     "Trans7",
+    "Trans7 2",
     "CNN Indonesia",
     "Berita Satu",
     "Net TV",
     "GTV",
     "MNCTV",
+    "MNCTV 2",
     "iNews TV",
     "RTV",
     "IN TV",
@@ -71,6 +77,12 @@
     "Pooya",
     "TV1 Malaysia",
     "TV2 Malaysia",
+    "TV3 Malaysia",
+    "TV7 Malaysia",
+    "TV8 Malaysia",
+    "TV9 Malaysia",
+    "Astro Arena",
+    "Atro Awani",
     "Okey Malaysia",
     "TV i Malaysia",
     "Parlimen Malaysia",
@@ -140,6 +152,12 @@
     "TV Indonesia",
     "TV Indonesia",
     "TV Indonesia",
+    "TV Indonesia",
+    "TV Indonesia",
+    "TV Indonesia",
+    "TV Indonesia",
+    "TV Indonesia",
+    "TV Indonesia",
     "TV Islami",
     "TV Islami",
     "TV Islami",
@@ -163,6 +181,12 @@
     "TV Iran",
     "TV Iran Kids",
     "TV Iran Kids",
+    "TV Malaysia",
+    "TV Malaysia",
+    "TV Malaysia",
+    "TV Malaysia",
+    "TV Malaysia",
+    "TV Malaysia",
     "TV Malaysia",
     "TV Malaysia",
     "TV Malaysia",
@@ -212,19 +236,25 @@
     "http://210.210.155.35/uq2663/h/h08/index.m3u8", //K+
     "http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com",//"https://edge.okezone.com/live/rctioke.m3u8",//"http://tv.rumahstreaming.stream/0f5822af544d5be1rcti/lives/chunks.m3u8",//"https://edge.okezone.com/live/rctioke.m3u8",//
     "http://210.210.155.35/qwr9ew/s/s04/index2.m3u8", //indosiar
+    "http://202.80.222.171/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com", //Indosiar 2
     "http://210.210.155.35:80/session/4a245e3a-b1f3-11e8-86db-c81f66f89318/qwr9ew/s/s05/index2.m3u8",//Trans TV
+    "http://202.80.222.171/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com",
     "http://210.210.155.35/qwr9ew/s/s07/index2.m3u8", //ANTV
     "https://stream-01.sg1.dailymotion.com/04/dm/3/x619221/live-2.m3u8", //TV ONE
+    "http://202.80.222.171/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com",//TVone2
     "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8", //Metro
     "http://rr2.dens.tv/s/s09/index1.m3u8",  //KOMPAS
     "http://210.210.155.35/qwr9ew/s/s03/index2.m3u8", //SCTV
+    "http://202.80.222.171/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com", //SCTV 2
     "http://210.210.155.35/qwr9ew/s/s06/index2.m3u8",// Trans 7"https://tv.rumahstreaming.stream/47b7cb0281e09253tran7/lives/playlist.m3u8",
+    "http://202.80.222.171/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com",
     "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8", //CNN Indo
     "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8", //Berita Satu 
     "http://210.210.155.35/qwr9ew/s/s08/index2.m3u8", //NET HD
     "http://202.80.222.174:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com", //GTV
     "http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com", //MNCTV
-    "http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511541532132975/1024.m3u8", //Inews TV
+    "http://202.80.222.171/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com",
+    "http://202.80.222.171/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com.", //Inews TV
     "http://210.210.155.35/qwr9ew/s/s12/index2.m3u8", //RTV
     "http://rr2.dens.tv/s/s46/index.m3u8", //IN TV
     "http://rr2.dens.tv/s/s48/index.m3u8", //TVRI SPORT
@@ -256,8 +286,14 @@
     "http://cdn1.live.irib.ir:1935/channel-live/smil:khorasanrazavi/chunklist_b307200_slFa.m3u8",
     "http://cdn1.live.irib.ir:1935/channel-live/smil:nasim/chunklist_b307200_slFa.m3u8",
     "http://cdn1.live.irib.ir:1935/channel-live/smil:pouya/chunklist_b307200_slFa.m3u8",
-    "https://rtm-live-stream1.glueapi.io/smil:rtmch001.smil/chunklist_b329000_sleng.m3u8",
-    "https://rtm-live-stream1.glueapi.io/smil:rtmch002/playlist.m3u8",
+    "https://rtm-live-stream1.glueapi.io/smil:rtmch001.smil/chunklist_b329000_sleng.m3u8", //"TV 1"
+    "https://rtm-live-stream1.glueapi.io/smil:rtmch002/playlist.m3u8", //"TV 2"
+    "http://stream-01.sg1.dailymotion.com/dm/3/x6qp375/live-1.m3u8", //"TV 3"
+    "http://stream-03.sg1.dailymotion.com/dm/dm/3/x6qp6ou/live.m3u8", //"TV7"
+    "http://stream-02.sg1.dailymotion.com/dm/3/x6qud17/live-1.m3u8", //TV8
+    "http://stream-02.sg1.dailymotion.com/dm/3/x6qqja6/live.m3u8", //TV9
+    "http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8", //Arena
+    "http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8", //Awani
     "https://rtm-live-stream1.glueapi.io/smil:rtmch003.smil/playlist.m3u8",
     "https://rtm-live-stream1.glueapi.io/smil:rtmch004/playlist.m3u8",
     "https://rtm-live-stream1.glueapi.io/smil:rtmch007/playlist.m3u8",
