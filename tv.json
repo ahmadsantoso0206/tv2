@@ -266,6 +266,10 @@
     "http://stream-02.sg1.dailymotion.com/dm/3/x6qqja6/live.m3u8", //TV9
     "http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8", //Arena
     "http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8", //Awani
+    "https://rtm-live-stream1.glueapi.io/smil:rtmch003.smil/playlist.m3u8",
+    "https://rtm-live-stream1.glueapi.io/smil:rtmch004/playlist.m3u8",
+    "https://rtm-live-stream1.glueapi.io/smil:rtmch007/playlist.m3u8",
+    "https://rtm-live-stream1.glueapi.io/smil:rtmch006/playlist.m3u8",
     "http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8",
     "http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8",
     "http://www.elahmad.com/tv/m3u8/adtv.m3u8",
