@@ -14,8 +14,6 @@
     "FOX Premium Cinema",
     "FOX Premium Comedy",
     "SONY Movie Channel",
-    "SONY LE PLEX HD",
-    "SONY PIX HD",
     "&PICTURES HD",
     "Arirang",
     "CBS TV",
@@ -119,10 +117,8 @@
     "Movies | Medium | No Sub",
     "Movies | Medium | No Sub",
     "Movies | Medium | No Sub",
-    "Movie Premium Chaneel | Medium | No Sub",
     "Movies | Medium | No Sub",
-    "Movies | Medium | Sub Eng",
-    "Movies | Fast | No Sub",
+    "Movies | Medium | No Sub",
     "KPop & Japan | Medium | Sub Eng",
     "KPop & Japan | Medium | Sub Eng",
     "KPop & Japan | Medium | Sub Eng",
@@ -227,8 +223,6 @@
     "http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8", //Fox Cinema
     "http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8", //Fox Comedy
     "http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8", //Sony Movie Channel
-    "http://mhms7.airtel.tv/PLTV/88888888/224/3221226446/04.m3u8",  //"Sony Le Plex"
-    "http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8", //"Sony Pix"
     "http://mhms7.airtel.tv/wh7f454c46tw3697671574_1750568037/PLTV/88888888/224/3221226203/02.m3u8", //& Pictures
     "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1328000_sleng.m3u8", //Arirang
     "http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8", //CBS
