@@ -86,23 +86,10 @@
     "TV i Malaysia",
     "Parlimen Malaysia",
     "1News Malaysia",
-    "CINEMATV",
-    "SONY MAX HD",
-    "SONY MIX",
-    "SONYSAB",
-    "WOW Cinema",
-    "ZEE ACTION",
-    "ZEE CINEMA",
-    "ZEE CLASSIC",
-    "ZEE TV HD",
     "MUSIC CHOICE",
     "HIT TV",
     "ABU DHABI",
-    "DUBAI ONE",
-    "Animal Planet HD",
-    "Discovery Turbo",
-    "Discovery Channel"
-    
+    "DUBAI ONE"
   ],
   "genre": [
     "Movies | Fast | Sub Indo",
@@ -191,22 +178,10 @@
     "TV Malaysia",
     "TV Malaysia",
     "TV Malaysia",
-    "TV India",
-    "TV India",
-    "TV India",
-    "TV India",
-    "TV India",
-    "TV India",
-    "TV India",
-    "TV India",
-    "TV India",
     "Music",
     "Music",
     "ARAB",
-    "ARAB",
-    "Education",
-    "Education",
-    "Education"
+    "ARAB"
   ],
   "url": [	
     "http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8", //Celestial
@@ -291,25 +266,9 @@
     "http://stream-02.sg1.dailymotion.com/dm/3/x6qqja6/live.m3u8", //TV9
     "http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8", //Arena
     "http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8", //Awani
-    "https://rtm-live-stream1.glueapi.io/smil:rtmch003.smil/playlist.m3u8",
-    "https://rtm-live-stream1.glueapi.io/smil:rtmch004/playlist.m3u8",
-    "https://rtm-live-stream1.glueapi.io/smil:rtmch007/playlist.m3u8",
-    "https://rtm-live-stream1.glueapi.io/smil:rtmch006/playlist.m3u8",
-    "http://mhms8.airtel.tv/wh7f454c46tw3749195007_759815032/PLTV/88888888/224/3221226246/04.m3u8",
-    "http://cshms4.airtel.tv/wh7f454c46tw288508750_687813938/PLTV/88888888/224/3221225776/04.m3u8",
-    "http://cshms3.airtel.tv/PLTV/88888888/224/3221225816/01.m3u8",
-    "http://cshms4.airtel.tv/PLTV/88888888/224/3221226078/04.m3u8",
-    "http://mhms9.airtel.tv/wh7f454c46tw3857929647_579493363/PLTV/88888888/224/3221226263/04.m3u8",
-    "http://mhms9.airtel.tv/wh7f454c46tw3857929647_579493363/PLTV/88888888/224/3221226331/04.m3u8",
-    "http://cshms3.airtel.tv/PLTV/88888888/224/3221225935/04.m3u8",
-    "http://cshms4.airtel.tv/PLTV/88888888/224/3221226067/04.m3u8",
-    "http://cshms3.airtel.tv/PLTV/88888888/224/3221225878/04.m3u8",
     "http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8",
     "http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8",
     "http://www.elahmad.com/tv/m3u8/adtv.m3u8",
-    "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8",
-    "http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/index.m3u8",
-    "http://cshms3.airtel.tv/PLTV/88888888/224/3221225782/01.m3u8",
-    "http://zerocube.co:8000/live/BLZokeTBv2/qDvpdVEPz4/65882.ts"
+    "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8"
   ]	
 }
