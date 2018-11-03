@@ -1,6 +1,5 @@
 {	
   "channel_name": [	
-    "Varzesh (Live : Liv vs Ars)",
     "Celestial Movies",
     "KIX",
     "THRILL",
@@ -56,6 +55,7 @@
     "Rodja TV",
     "Makkah 1",
     "Madina TV",
+    "Varzesh",
     "Baran",
     "Iran Kala",
     "IRIB 1",
@@ -91,7 +91,6 @@
     "DUBAI ONE"
   ],
   "genre": [
-    "TV Iran",
     "Movies | Fast | Sub Indo",
     "Movies | Fast | Sub Indo",
     "Movies | Fast | Sub Indo",
@@ -162,6 +161,7 @@
     "TV Iran",
     "TV Iran",
     "TV Iran",
+    "TV Iran",
     "TV Iran Kids",
     "TV Iran Kids",
     "TV Malaysia",
@@ -182,7 +182,6 @@
     "ARAB"
   ],
   "url": [	
-    "http://cdn1.live.irib.ir:1935/channel-live/varzesh-1mb.stream/chunklist.m3u8",
     "http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8", //Celestial
     "http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8?fluxustv.m3u8", //Kix
     "http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8", //Thrill
@@ -238,6 +237,7 @@
     "http://210.210.155.35/qwr9ew/s/s14/index2.m3u8", //Rodja
     "http://rr2.dens.tv/s/s28/index.m3u8", //Makkah
     "http://rr2.dens.tv/s/s27/index.m3u8", //Madina
+    "http://cdn1.live.irib.ir:1935/channel-live/varzesh-1mb.stream/chunklist.m3u8",
     "http://cdn1.live.irib.ir:1935/channel-live/smil:baran/chunklist_b307200_slFa.m3u8",
     "http://cdn1.live.irib.ir:1935/channel-live/smil:irankala/chunklist_b307200_slFa.m3u8",
     "http://cdn1.live.irib.ir:1935/channel-live/smil:tv1/chunklist_b307200_slFa.m3u8",
