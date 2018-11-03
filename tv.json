@@ -1,5 +1,6 @@
 {	
   "channel_name": [	
+    "Varzesh (Live : Liv vs Ars)",
     "Celestial Movies",
     "KIX",
     "THRILL",
@@ -63,7 +64,6 @@
     "IRIB 5",
     "IFilm",
     "Shoma",
-    "Varzesh",
     "Namayesh",
     "Omid",
     "Jamejam",
@@ -91,6 +91,7 @@
     "DUBAI ONE"
   ],
   "genre": [
+    "TV Iran",
     "Movies | Fast | Sub Indo",
     "Movies | Fast | Sub Indo",
     "Movies | Fast | Sub Indo",
@@ -161,7 +162,6 @@
     "TV Iran",
     "TV Iran",
     "TV Iran",
-    "TV Iran",
     "TV Iran Kids",
     "TV Iran Kids",
     "TV Malaysia",
@@ -182,6 +182,7 @@
     "ARAB"
   ],
   "url": [	
+    "http://cdn1.live.irib.ir:1935/channel-live/varzesh-1mb.stream/chunklist.m3u8",
     "http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8", //Celestial
     "http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8?fluxustv.m3u8", //Kix
     "http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8", //Thrill
@@ -245,7 +246,6 @@
     "http://cdn1.live.irib.ir:1935/channel-live/smil:tv5/chunklist_b307200_slFa.m3u8",
     "http://cdn1.live.irib.ir:1935/channel-live/smil:ifilmfa/chunklist_b307200_slFa.m3u8",
     "http://cdn1.live.irib.ir:1935/channel-live/smil:shoma/chunklist_b307200_slFa.m3u8",
-    "http://cdn1.live.irib.ir:1935/channel-live/varzesh-1mb.stream/chunklist.m3u8",
     "http://cdn1.live.irib.ir:1935/channel-live/smil:namayesh/chunklist_b307200_slFa.m3u8",
     "http://cdn1.live.irib.ir:1935/channel-live/smil:omid/chunklist_b307200_slFa.m3u8",
     "http://cdn1.live.irib.ir:1935/channel-live/smil:jjtvn1/chunklist_b307200_slFa.m3u8",
