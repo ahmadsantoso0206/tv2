@@ -89,7 +89,8 @@
     "MUSIC CHOICE",
     "HIT TV",
     "ABU DHABI",
-    "DUBAI ONE"
+    "DUBAI ONE",
+    "Bloomberg TV"
   ],
   "genre": [
     "Movies | Fast | Sub Indo",
@@ -181,7 +182,8 @@
     "Music",
     "Music",
     "ARAB",
-    "ARAB"
+    "ARAB",
+    "24/7 News"
   ],
   "url": [	
     "http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8", //Celestial
@@ -273,6 +275,7 @@
     "http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8",
     "http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8",
     "http://www.elahmad.com/tv/m3u8/adtv.m3u8",
-    "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8"
+    "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8",
+    "http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8"
   ]	
 }
