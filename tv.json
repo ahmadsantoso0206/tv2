@@ -90,7 +90,8 @@
     "HIT TV",
     "ABU DHABI",
     "DUBAI ONE",
-    "Bloomberg TV"
+    "Bloomberg TV",
+    "NHK World"
   ],
   "genre": [
     "Movies | Fast | Sub Indo",
@@ -183,6 +184,7 @@
     "Music",
     "ARAB",
     "ARAB",
+    "24/7 News",
     "24/7 News"
   ],
   "url": [	
@@ -276,6 +278,7 @@
     "http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8",
     "http://www.elahmad.com/tv/m3u8/adtv.m3u8",
     "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8",
-    "http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8"
+    "http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8",
+    "http://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index_1180.m3u8"
   ]	
 }
