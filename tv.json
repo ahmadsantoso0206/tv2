@@ -92,7 +92,8 @@
     "DUBAI ONE",
     "Bloomberg TV",
     "NHK World",
-    "Aljazeera"
+    "Aljazeera",
+    "France 24"
   ],
   "genre": [
     "Movies | Fast | Sub Indo",
@@ -185,6 +186,7 @@
     "Music",
     "ARAB",
     "ARAB",
+    "24/7 News",
     "24/7 News",
     "24/7 News",
     "24/7 News"
@@ -282,6 +284,7 @@
     "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8",
     "http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8",
     "http://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index_1180.m3u8",
-    "http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8"
+    "http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8",
+    "http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8"
   ]	
 }
