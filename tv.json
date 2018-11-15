@@ -95,7 +95,8 @@
     "NHK World",
     "Aljazeera",
     "France 24",
-    "ABC News"
+    "ABC News",
+    "Animal Planet"
   ],
   "genre": [
     "Movies | Fast | Sub Indo",
@@ -193,7 +194,8 @@
     "24/7 News",
     "24/7 News",
     "24/7 News",
-    "24/7 News"
+    "24/7 News",
+    "Education"
   ],
   "url": [	
     "http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8", //Celestial
@@ -291,6 +293,7 @@
     "http://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index_1180.m3u8",
     "http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8",
     "http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8",
-    "http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8"
+    "http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8",
+    "http://161.0.157.6/PLTV/88888888/224/3221226253/index.m3u8"
   ]	
 }
