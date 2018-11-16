@@ -8,6 +8,7 @@
     "24h Holiwood Movie 3",
     "24h Holiwood Movie 4",
     "24h Holiwood Movie 5",
+    "Cinema World",
     "And Prive HD",
     "And Flix",
     "HBO 2",
@@ -39,6 +40,7 @@
     "CNN Indonesia",
     "Berita Satu",
     "Net TV",
+    "Net TV 2",
     "GTV",
     "MNCTV",
     "MNCTV 2",
@@ -107,6 +109,7 @@
     "Movies | Fast | Sub Eng/Japan",
     "Movies | Fast | Sub Eng/Japan",
     "Movies | Fast | Sub Eng/Japan",
+    "Movies",
     "Movies | Fast | Sub Eng",
     "Movies | Medium | No Sub",
     "Movies | Medium | No Sub",   
@@ -121,6 +124,7 @@
     "KPop & Japan | Fast | Sub Eng",
     "KPop & Japan | Fast | Sub Indo",
     "KPop & Japan | Fast | Sub Indo",
+    "TV Indonesia",
     "TV Indonesia",
     "TV Indonesia",
     "TV Indonesia",
@@ -206,6 +210,7 @@
     "http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8",
     "http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8",
     "http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8",
+    "http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8", //Cimema World
     "http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8", //&Prive HD
     "http://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8", //&Flix
     "http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8",  //HBO2
@@ -222,7 +227,7 @@
     "http://210.210.155.35/uq2663/h/h08/index.m3u8", //K+
     "http://id8.indostreamingtv.com/live/tv6/index.m3u8",//"http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com",//"https://edge.okezone.com/live/rctioke.m3u8",//"http://tv.rumahstreaming.stream/0f5822af544d5be1rcti/lives/chunks.m3u8",//"https://edge.okezone.com/live/rctioke.m3u8",//
     "http://210.210.155.35/qwr9ew/s/s04/index2.m3u8", //indosiar
-    "http://202.80.222.171/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com", //Indosiar 2
+    "http://rr2.dens.tv/s/s04/index1.m3u8",//"http://202.80.222.171/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com", //Indosiar 2
     "http://210.210.155.35:80/session/4a245e3a-b1f3-11e8-86db-c81f66f89318/qwr9ew/s/s05/index2.m3u8",//Trans TV
     "http://id2.indostreamingtv.com/live/tv33/index.m3u8",//"http://202.80.222.171/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com",
     "http://210.210.155.35/qwr9ew/s/s07/index2.m3u8", //ANTV
@@ -231,12 +236,13 @@
     "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8", //Metro
     "http://rr2.dens.tv/s/s09/index1.m3u8",  //KOMPAS
     "http://210.210.155.35/qwr9ew/s/s03/index2.m3u8", //SCTV
-    "http://202.80.222.171/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com", //SCTV 2
+    "http://rr2.dens.tv/s/s03/index1.m3u8",//"http://202.80.222.171/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com", //SCTV 2
     "http://210.210.155.35/qwr9ew/s/s06/index2.m3u8",// Trans 7"https://tv.rumahstreaming.stream/47b7cb0281e09253tran7/lives/playlist.m3u8",
-    "http://202.80.222.171/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com",
+    "http://rr2.dens.tv/s/s06/index1.m3u8",//"http://202.80.222.171/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com",
     "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8", //CNN Indo
     "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8", //Berita Satu 
     "http://210.210.155.35/qwr9ew/s/s08/index2.m3u8", //NET HD
+    "http://rr2.dens.tv/s/s08/index1.m3u8",//Net SD
     "http://202.80.222.174:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com", //GTV
     "http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com", //MNCTV
     "http://202.80.222.171/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com",
