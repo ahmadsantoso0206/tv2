@@ -94,7 +94,16 @@
     "Animal Planet",
     "Nat Geo Wild",
     "TV Africa (Ghana)",
-    "You Channel"
+    "You Channel",
+    "Allgau TV",
+    "Blizz TV",
+    "Franken Fernsehen",
+    "INTV",
+    "Munchen TV",
+    "Noa 4 Norderstedt",
+    "Noa 4 Hamburg",
+    "Rheinmain TV",
+    "tagesschau24"
   ],
   "genre": [
     "Movies | Fast | Sub Indo",
@@ -191,7 +200,16 @@
     "Education",
     "Education"
     "TV Africa (Ghana)",
-    "TV Thailand"
+    "TV Thailand",
+    "Germany",
+    "Germany",
+    "Germany",
+    "Germany",
+    "Germany",
+    "Gernany",
+    "Gernany",
+    "Germany",
+    "Germany"
   ],
   "url": [	
     "http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8", //Celestial
@@ -288,6 +306,15 @@
     "http://161.0.157.6/PLTV/88888888/224/3221226253/index.m3u8",
     "http://51.15.5.246:8010/Doc/Natgeo/index.m3u8?token=MTI1LjE2MC4xMTQuMTg1LXRva2VuMS0xNTM0MTA2Mjc1",
     "http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8",
-    "http://stream.rs.co.th/you-hi/index.m3u8"
+    "http://stream.rs.co.th/you-hi/index.m3u8",
+    "http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8",
+    "http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8",
+    "http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.m3u8",
+    "http://streaming-magenta-music-360.akamaized.net/hls/live/504581/magentamusik1/magentamusik1_1/magentamusik1.m3u8",
+    "http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8",
+    "http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8",
+    "http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8",
+    "http://62.67.13.54:1935/rmtv/rmtv_livestream/playlist.m3u8",
+    "http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8"
   ]	
 }
