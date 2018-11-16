@@ -47,6 +47,7 @@
     "Inspira TV",
     "BBS TV",
     "Rodja TV",
+    "DAI TV",
     "Makkah 1",
     "Madina TV",
     "Varzesh",
@@ -114,6 +115,7 @@
     "KPop & Japan | Fast | Sub Eng",
     "KPop & Japan | Fast | Sub Indo",
     "KPop & Japan | Fast | Sub Indo",
+    "TV Indonesia",
     "TV Indonesia",
     "TV Indonesia",
     "TV Indonesia",
@@ -229,6 +231,7 @@
     "http://stream1.ninmedia.tv/live/xmedia-inspiratv.stream_nin/chunklist_w1076676178.m3u8", // Inspira
     "http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8", // BBS\
     "http://210.210.155.35/qwr9ew/s/s14/index2.m3u8", //Rodja
+    "http://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8",//DAI
     "http://rr2.dens.tv/s/s28/index.m3u8", //Makkah
     "http://rr2.dens.tv/s/s27/index.m3u8", //Madina
     "http://cdn1.live.irib.ir:1935/channel-live/varzesh-1mb.stream/chunklist.m3u8",
