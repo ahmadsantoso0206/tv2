@@ -90,6 +90,7 @@
     "Aljazeera",
     "France 24",
     "ABC News",
+    "NTV News24 (JPN)",
     "Animal Planet",
     "Nat Geo Wild",
     "TV Africa (Ghana)",
@@ -186,6 +187,7 @@
     "24/7 News",
     "24/7 News",
     "24/7 News",
+    "24/7 News Japan",
     "Education",
     "Education"
     "TV Africa (Ghana)",
@@ -282,6 +284,7 @@
     "http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8",
     "http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8",
     "http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8",
+    "http://www.news24.jp/livestream/index.m3u8",
     "http://161.0.157.6/PLTV/88888888/224/3221226253/index.m3u8",
     "http://51.15.5.246:8010/Doc/Natgeo/index.m3u8?token=MTI1LjE2MC4xMTQuMTg1LXRva2VuMS0xNTM0MTA2Mjc1",
     "http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8",
