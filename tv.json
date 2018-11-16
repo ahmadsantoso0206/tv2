@@ -91,7 +91,9 @@
     "France 24",
     "ABC News",
     "Animal Planet",
-    "Nat Geo Wild"
+    "Nat Geo Wild",
+    "TV Africa (Ghana)",
+    "You Channel"
   ],
   "genre": [
     "Movies | Fast | Sub Indo",
@@ -186,6 +188,8 @@
     "24/7 News",
     "Education",
     "Education"
+    "TV Africa (Ghana)",
+    "TV Thailand"
   ],
   "url": [	
     "http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8", //Celestial
@@ -279,6 +283,8 @@
     "http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8",
     "http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8",
     "http://161.0.157.6/PLTV/88888888/224/3221226253/index.m3u8",
-    "http://51.15.5.246:8010/Doc/Natgeo/index.m3u8?token=MTI1LjE2MC4xMTQuMTg1LXRva2VuMS0xNTM0MTA2Mjc1"
+    "http://51.15.5.246:8010/Doc/Natgeo/index.m3u8?token=MTI1LjE2MC4xMTQuMTg1LXRva2VuMS0xNTM0MTA2Mjc1",
+    "http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8",
+    "http://stream.rs.co.th/you-hi/index.m3u8"
   ]	
 }
