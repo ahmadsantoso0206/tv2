@@ -43,8 +43,6 @@
     "Net TV 2",
     "GTV",
     "MNCTV",
-    "MNCTV 2",
-    "iNews TV",
     "RTV",
     "IN TV",
     "TVRI Sport HD",
@@ -124,8 +122,6 @@
     "KPop & Japan | Fast | Sub Eng",
     "KPop & Japan | Fast | Sub Indo",
     "KPop & Japan | Fast | Sub Indo",
-    "TV Indonesia",
-    "TV Indonesia",
     "TV Indonesia",
     "TV Indonesia",
     "TV Indonesia",
@@ -245,8 +241,6 @@
     "http://rr2.dens.tv/s/s08/index1.m3u8",//Net SD
     "http://202.80.222.174:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com", //GTV
     "http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com", //MNCTV
-    "http://202.80.222.171/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com",
-    "http://202.80.222.171/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com.", //Inews TV
     "http://210.210.155.35/qwr9ew/s/s12/index2.m3u8", //RTV
     "http://rr2.dens.tv/s/s46/index.m3u8", //IN TV
     "http://rr2.dens.tv/s/s48/index.m3u8", //TVRI SPORT
