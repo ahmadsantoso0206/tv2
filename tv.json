@@ -26,6 +26,7 @@
     "RCTI",
     "Indosiar",
     "Indosiar 2",
+    "Indosiar 3",
     "Trans TV",
     "Trans TV 2",
     "ANTV",
@@ -151,6 +152,7 @@
     "TV Indonesia",
     "TV Indonesia",
     "TV Indonesia",
+    "TV Indonesia",
     "TV Islami",
     "TV Islami",
     "TV Islami",
@@ -238,6 +240,7 @@
     "http://id8.indostreamingtv.com/live/tv6/index.m3u8",//"http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com",//"https://edge.okezone.com/live/rctioke.m3u8",//"http://tv.rumahstreaming.stream/0f5822af544d5be1rcti/lives/chunks.m3u8",//"https://edge.okezone.com/live/rctioke.m3u8",//
     "http://210.210.155.35/qwr9ew/s/s04/index2.m3u8", //indosiar
     "http://rr2.dens.tv/s/s04/index1.m3u8",//"http://202.80.222.171/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com", //Indosiar 2
+    "http://202.80.222.169:80/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com",//Indosiar 3
     "http://210.210.155.35:80/session/4a245e3a-b1f3-11e8-86db-c81f66f89318/qwr9ew/s/s05/index2.m3u8",//Trans TV
     "http://id2.indostreamingtv.com/live/tv33/index.m3u8",//"http://202.80.222.171/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com",
     "http://210.210.155.35/qwr9ew/s/s07/index2.m3u8", //ANTV
