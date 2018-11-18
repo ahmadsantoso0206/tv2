@@ -3,6 +3,7 @@
     "Celestial Movies",
     "KIX",
     "THRILL",
+    "HBO",
     "24h Holiwood Movie 1",
     "24h Holiwood Movie 2",
     "24h Holiwood Movie 3",
@@ -12,7 +13,6 @@
     "And Prive HD",
     "And Flix",
     "HBO 2",
-    "HBO",
     "FOX Premium Cinema",
     "FOX Premium Comedy",
     "SONY Movie Channel",
@@ -128,6 +128,7 @@
     "Movies | Fast | Sub Indo",
     "Movies | Fast | Sub Indo",
     "Movies | Fast | Sub Indo",
+    "Movies | Medium | Sub Indo",
     "Movies | Fast | Sub Eng/Japan",
     "Movies | Fast | Sub Eng/Japan",
     "Movies | Fast | Sub Eng/Japan",
@@ -137,7 +138,6 @@
     "Movies | Fast | Sub Eng",
     "Movies | Medium | No Sub",
     "Movies | Medium | No Sub",   
-    "Movies | Medium | Sub Indo",
     "Movies | Medium | No Sub",
     "Movies | Medium | No Sub",
     "Kids",
@@ -253,6 +253,7 @@
     "http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8", //Celestial
     "http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8?fluxustv.m3u8", //Kix
     "http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8", //Thrill
+    "http://210.210.155.35/uq2663/h/h231/index2.m3u8",//HBO
     "http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8",
     "http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8",
     "http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8",
@@ -262,7 +263,6 @@
     "http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8", //&Prive HD
     "http://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8", //&Flix
     "http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8",  //HBO2
-    "http://210.210.155.35/uq2663/h/h231/index2.m3u8",
     "http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8", //Fox Cinema
     "http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8", //Fox Comedy
     "http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8", //Sony Movie Channel
