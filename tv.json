@@ -1,7 +1,5 @@
 {	
   "channel_name": [	
-    "Badminton Live",
-    "BT Sports 2 (Live MotoGP)",
     "HBO",
     "Celestial Movies",
     "KIX",
@@ -126,6 +124,7 @@
     "Noa 4 Hamburg",
     "Rheinmain TV",
     "tagesschau24",
+    "BT Sports",
     "AD Sports",
     "AD Sports 2",
     "Rusia Extreme",
@@ -138,8 +137,6 @@
     "Prambors FM"
   ],
   "genre": [
-    "Sports",
-    "Sports",
     "Movies | Medium | Sub Indo",
     "Movies | Fast | Sub Indo",
     "Movies | Fast | Sub Indo",
@@ -271,13 +268,13 @@
     "Sports",
     "Sports",
     "Sports",
+    "Sports",
     "Indo Radio",
     "Indo Radio",
     "Indo Radio"
   ],
   "url": [	
-    "https://defjwd5stvrhj.cloudfront.net/out/v1/54a201076b1e46ee83027a72ef637252/index_3.m3u8",
-    "https://d5975ba44d174470b3c862fa87eda4cf.azureedge.net/d7502948-1d3a-460e-89ba-9564ff9d918a/d16c61f6-df23-495f-9d14-77f6ef645f71.ism/QualityLevels(550000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)",
+    //"https://defjwd5stvrhj.cloudfront.net/out/v1/54a201076b1e46ee83027a72ef637252/index_3.m3u8",
     "http://210.210.155.35/uq2663/h/h231/index2.m3u8",//HBO
     "http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8", //Celestial
     "http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8?fluxustv.m3u8", //Kix
@@ -402,6 +399,7 @@
     "http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8",
     "http://62.67.13.54:1935/rmtv/rmtv_livestream/playlist.m3u8",
     "http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8",
+    "https://d5975ba44d174470b3c862fa87eda4cf.azureedge.net/d7502948-1d3a-460e-89ba-9564ff9d918a/d16c61f6-df23-495f-9d14-77f6ef645f71.ism/QualityLevels(550000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)",
     "http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?VIPIPTV",
     "http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?VIPIPTV",
     "http://media2.strekalovskiy.com/rusextrimretro/tracks-v1a1/index.m3u8",
