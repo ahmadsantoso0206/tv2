@@ -50,6 +50,7 @@
     "BBS TV",
     "Rodja TV",
     "DAI TV",
+    "Elshinta TV",
     "Makkah 1",
     "Madina TV",
     "Baran",
@@ -90,15 +91,20 @@
     "HIT TV",
     "ABU DHABI",
     "DUBAI ONE",
+    "Euro News",
     "Bloomberg TV",
     "NHK World",
     "Aljazeera",
     "France 24",
     "ABC News",
     "NTV News24 (JPN)",
+    "AR News 1",
+    "AR News 2",
     "Animal Planet",
     "Nat Geo Wild",
     "Davinci Learning",
+    "CTGN Documentary",
+    "RT",
     "TV Africa (Ghana)",
     "You Channel",
     "FAMILY",
@@ -176,6 +182,7 @@
     "TV Indonesia",
     "TV Indonesia",
     "TV Indonesia",
+    "TV Indonesia",
     "TV Islami",
     "TV Islami",
     "TV Islami",
@@ -219,12 +226,17 @@
     "Music",
     "ARAB",
     "ARAB",
+    "24/7 News",
     "24/7 News",
     "24/7 News",
     "24/7 News",
     "24/7 News",
     "24/7 News",
     "24/7 News Japan",
+    "24/7 News (AR)",
+    "24/7 News (AR)",
+    "Education",
+    "Education",
     "Education",
     "Education",
     "Education",
@@ -308,6 +320,7 @@
     "http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8", // BBS\
     "http://210.210.155.35/qwr9ew/s/s14/index2.m3u8", //Rodja
     "http://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8",//DAI
+    "http://210.210.155.35/qwr9ew/s/s10/index2.m3u8",
     "http://rr2.dens.tv/s/s28/index.m3u8", //Makkah
     "http://rr2.dens.tv/s/s27/index.m3u8", //Madina
     "http://cdn1.live.irib.ir:1935/channel-live/smil:baran/chunklist_b307200_slFa.m3u8",
@@ -346,17 +359,22 @@
     "http://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index.m3u8",//Vasantham
     "http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8", //Music
     "http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8",//Hit TV
-    "http://www.elahmad.com/tv/m3u8/adtv.m3u8", //ABU DHABI"
+    "http://www.elahmad.com/tv/m3u8/adtv.m3u8", //ABU DHABI
     "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8", //DUBAI
     "http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8", //
+    "http://210.210.155.35/qwr9ew/s/s15/index2.m3u8",//Euro News
     "http://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index_1180.m3u8",//Bloomberg
     "http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8",//
     "http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8",//
     "http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8",//
     "http://www.news24.jp/livestream/index.m3u8",//NTV
+    "http://210.210.155.35/qwr9ew/s/s16/index2.m3u8",//AR News
+    "http://210.210.155.35/qwr9ew/s/s17/index2.m3u8",//AR News 2
     "http://161.0.157.6/PLTV/88888888/224/3221226253/index.m3u8",//
     "http://51.15.5.246:8010/Doc/Natgeo/index.m3u8?token=MTI1LjE2MC4xMTQuMTg1LXRva2VuMS0xNTM0MTA2Mjc1",
     "http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/02.m3u8", //Davinci
+    "http://210.210.155.35/qwr9ew/s/s20/index2.m3u8",//CTGN
+    "http://210.210.155.35/qwr9ew/s/s23/index2.m3u8",//RT
     "http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8", //africa
     "http://stream.rs.co.th/you-hi/index.m3u8", //You TV
     "http://main-a.for-our.info:8081/tv2/ch1.m3u8", //Family
