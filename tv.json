@@ -1,6 +1,7 @@
 {	
   "channel_name": [	
     "Badminton Live",
+    "BT Sports 2 (Live MotoGP)"
     "HBO",
     "Celestial Movies",
     "KIX",
@@ -136,6 +137,7 @@
     "Prambors FM"
   ],
   "genre": [
+    "Sports",
     "Sports",
     "Movies | Medium | Sub Indo",
     "Movies | Fast | Sub Indo",
@@ -273,6 +275,7 @@
   ],
   "url": [	
     "https://defjwd5stvrhj.cloudfront.net/out/v1/54a201076b1e46ee83027a72ef637252/index_3.m3u8",
+    "https://d5975ba44d174470b3c862fa87eda4cf.azureedge.net/d7502948-1d3a-460e-89ba-9564ff9d918a/d16c61f6-df23-495f-9d14-77f6ef645f71.ism/QualityLevels(550000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)",
     "http://210.210.155.35/uq2663/h/h231/index2.m3u8",//HBO
     "http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8", //Celestial
     "http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8?fluxustv.m3u8", //Kix
