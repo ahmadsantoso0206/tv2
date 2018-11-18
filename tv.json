@@ -5,6 +5,7 @@
     "KIX",
     "THRILL",
     "Cinema World",
+    "Zee Bioskop",
     "24h Holiwood Movie 1",
     "24h Holiwood Movie 2",
     "24h Holiwood Movie 3",
@@ -122,13 +123,17 @@
     "RAI Sports",
     "Kuwait One",
     "Dubai Sports",
-    "Varzesh"
+    "Varzesh",
+    "IRadio Jakarta",
+    "Gen FM",
+    "Prambors FM"
   ],
   "genre": [
     "Movies | Medium | Sub Indo",
     "Movies | Fast | Sub Indo",
     "Movies | Fast | Sub Indo",
     "Movies | Fast | Sub Indo",
+    "Movies | Medium | Sub Indo",
     "Movies | Medium | Sub Indo",
     "Movies | Fast | Sub Eng/Japan",
     "Movies | Fast | Sub Eng/Japan",
@@ -247,19 +252,23 @@
     "Sports",
     "Sports",
     "Sports",
-    "Sports"
+    "Sports",
+    "Indo Radio",
+    "Indo Radio",
+    "Indo Radio"
   ],
   "url": [	
     "http://210.210.155.35/uq2663/h/h231/index2.m3u8",//HBO
     "http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8", //Celestial
     "http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8?fluxustv.m3u8", //Kix
     "http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8", //Thrill
+    "http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8", //Cimema World
+    "http://210.210.155.35/qwr9ew/s/s32/index1.m3u8",//Zee Bioskop
     "http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8",
     "http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8",
     "http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8",
     "http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8",
     "http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8",
-    "http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8", //Cimema World
     "http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8", //&Prive HD
     "http://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8", //&Flix
     "http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8",  //HBO2
@@ -372,6 +381,9 @@
     "https://raisportdue1-live.akamaized.net/hls/live/598322/raisportdue1/raisport2_1800/chunklist.m3u8?sd=10&rebase=on",
     "http://wms.tecnoxia.com:1935/8158/8158/chunklist_w299184953.m3u8",
     "http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b2000000.m3u8",
-    "http://cdn1.live.irib.ir:1935/channel-live/varzesh-1mb.stream/chunklist.m3u8"
+    "http://cdn1.live.irib.ir:1935/channel-live/varzesh-1mb.stream/chunklist.m3u8",
+    "http://cloudstreaming.mramedia.com:8000/live",
+    "http://streaming.sim-indonesia.com:8000/genfm",
+    "http://masima.rastream.com/masima-pramborsjakarta"
   ]	
 }
