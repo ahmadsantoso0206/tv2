@@ -82,6 +82,9 @@
     "Parlimen Malaysia",
     "1News Malaysia",
     "Okto TV",
+    "Channel News Asia",
+    "Suria",
+    "VASANTHAM"
     "MUSIC CHOICE",
     "HIT TV",
     "ABU DHABI",
@@ -96,6 +99,13 @@
     "Nat Geo Wild",
     "TV Africa (Ghana)",
     "You Channel",
+    "FAMILY",
+    "Channel 2",
+    "Channel 3",
+    "Channel 5",
+    "Channel 7",
+    "Channel 8 THAI 27",
+    "Voice TV 21",
     "Allgau TV",
     "Blizz TV",
     "Franken Fernsehen",
@@ -188,7 +198,10 @@
     "TV Malaysia",
     "TV Malaysia",
     "TV Malaysia",
-    "TV Sg",
+    "TV SG",
+    "TV SG",
+    "TV SG",
+    "TV SG",
     "Music",
     "Music",
     "ARAB",
@@ -202,6 +215,13 @@
     "Education",
     "Education",
     "TV Africa (Ghana)",
+    "TV Thailand",
+    "TV Thailand",
+    "TV Thailand",
+    "TV Thailand",
+    "TV Thailand",
+    "TV Thailand",
+    "TV Thailand",
     "TV Thailand",
     "Germany",
     "Germany",
@@ -295,21 +315,31 @@
     "https://rtm-live-stream1.glueapi.io/smil:rtmch004/playlist.m3u8",
     "https://rtm-live-stream1.glueapi.io/smil:rtmch007/playlist.m3u8",
     "https://rtm-live-stream1.glueapi.io/smil:rtmch006/playlist.m3u8",
-    "http://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8",
-    "http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8",
-    "http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8",
-    "http://www.elahmad.com/tv/m3u8/adtv.m3u8",
-    "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8",
-    "http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8",
-    "http://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index_1180.m3u8",
-    "http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8",
-    "http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8",
-    "http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8",
-    "http://www.news24.jp/livestream/index.m3u8",
-    "http://161.0.157.6/PLTV/88888888/224/3221226253/index.m3u8",
+    "http://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8", //Okto
+    "http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8", //Channel Nesw
+    "http://ftasuria.akamaized.net/out/v1/dc54e93f8c674ab99d41f2f461d97ecf/index.m3u8",//Suria
+    "http://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index.m3u8",//Vasantham
+    "http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8", //Music
+    "http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8",//Hit TV
+    "http://www.elahmad.com/tv/m3u8/adtv.m3u8", //ABU DHABI"
+    "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8", //DUBAI
+    "http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8", //
+    "http://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index_1180.m3u8",//Bloomberg
+    "http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8",//
+    "http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8",//
+    "http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8",//
+    "http://www.news24.jp/livestream/index.m3u8",//NTV
+    "http://161.0.157.6/PLTV/88888888/224/3221226253/index.m3u8",//
     "http://51.15.5.246:8010/Doc/Natgeo/index.m3u8?token=MTI1LjE2MC4xMTQuMTg1LXRva2VuMS0xNTM0MTA2Mjc1",
-    "http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8",
-    "http://stream.rs.co.th/you-hi/index.m3u8",
+    "http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8", //africa
+    "http://stream.rs.co.th/you-hi/index.m3u8", //You TV
+    "http://main-a.for-our.info:8081/tv2/ch1.m3u8", //Family
+    "http://stream.rs.co.th/ch2-hi/index.m3u8", //Channel 2
+    "http://119.59.125.74/stream/totnew.php?channel_id=a4485b656d764f308c63b14a8bf62326&.m3u", //Channel 3
+    "http://119.59.125.74/stream/totnew.php?channel_id=1d92193b11fe490b8c67d0a88bee3fd6&.m3u", //Channel 5
+    "http://119.59.125.74/stream/totnew.php?channel_id=ddfa47e726444446864b14e0e819fdde&.m3u", //Channel 7
+    "http://main-a.for-our.info:8081/tv2/ch2.m3u8", //CHANNEL 8 THAI 27
+    "http://main-a.for-our.info:8081/tv2/ch6.m3u8", //Voice TV 21
     "http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8",
     "http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8",
     "http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.m3u8",
