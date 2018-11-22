@@ -1,5 +1,7 @@
 {	
   "channel_name": [	
+    "Install Onne TV bcause This app will no longer available, thanks",
+    "Install Aplikasi Onne TV karena aplikasi ini akan dihapus",
     "HBO",
     "Celestial Movies",
     "KIX",
@@ -137,6 +139,8 @@
     "Prambors FM"
   ],
   "genre": [
+    "Livestream TV app will be disabled!",
+    "Aplikasi Livestream TV akan dihapus",
     "Movies | Medium | Sub Indo",
     "Movies | Fast | Sub Indo",
     "Movies | Fast | Sub Indo",
@@ -274,6 +278,7 @@
     "Indo Radio"
   ],
   "url": [	
+    "",
     //"https://defjwd5stvrhj.cloudfront.net/out/v1/54a201076b1e46ee83027a72ef637252/index_3.m3u8",
     "http://210.210.155.35/uq2663/h/h231/index2.m3u8",//HBO
     "http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8", //Celestial
